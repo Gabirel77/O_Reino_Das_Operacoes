@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto **O reino das operações** é um jogo educacional desenvolvido na plataforma Unity, com o objetivo de auxiliar os estudantes no aprendizado de funções matemáticas. Ele aborda desafios comuns enfrentados no ensino de matemática, como a falta de motivação dos alunos e a desconexão com a realidade digital dos estudantes.
+O projeto **O REINO DAS OPERAÇÕES** é um jogo educacional desenvolvido na plataforma Unity, com o objetivo de auxiliar os estudantes no aprendizado de funções matemáticas. Ele aborda desafios comuns enfrentados no ensino de matemática, como a falta de motivação dos alunos e a desconexão com a realidade digital dos estudantes.
 
 ## Objetivos
 
